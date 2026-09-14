@@ -1,0 +1,2 @@
+scheme,volume,repetition,baseline_memory_mb,peak_memory_mb,memory_used_mb,mean_cpu_percent,peak_cpu_percent,cpu_sample_interval_sec,num_cpu_samples,wall_time_sec,throughput
+ECC+AES-256,1000,2,73.26171875,78.93359375,5.671875,72.125,93.1,0.05,12,1.2508080005645752,3914.2022493150675

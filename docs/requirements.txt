@@ -1,0 +1,18 @@
+# Pinned to the exact versions captured on the benchmarking machine
+# (see SYSTEM.md) via `pip freeze`, scoped to packages actually
+# imported by src/ and analysis/.
+#
+# Note: experiments were run inside a Jupyter environment; this file
+# lists only the direct dependencies of the benchmarking and analysis
+# code, not the full Jupyter/JupyterLab stack. See SYSTEM.md for the
+# complete environment if an exact reproduction is required.
+
+pycryptodome==3.23.0
+cryptography==48.0.0
+psutil==7.2.2
+pandas==3.0.3
+matplotlib==3.10.9
+
+# Only required if regenerating the Excel statistics workbook
+# (build_report.py) — not needed to run benchmark.py itself.
+# openpyxl==<version not captured — install separately if needed>

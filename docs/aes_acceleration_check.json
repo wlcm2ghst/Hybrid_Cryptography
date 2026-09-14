@@ -1,0 +1,15 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "cpu_flag_detected": null,
+  "cpu_flag_name": null,
+  "mean_throughput_mb_s": 383.8948746390651,
+  "throughput_samples_mb_s": [
+    390.6929611286682,
+    388.87808673026416,
+    372.11357605826294
+  ],
+  "throughput_verdict": "INCONCLUSIVE (falls between the reference thresholds)",
+  "combined_verdict": "CPU flag could not be checked; throughput alone suggests acceleration is UNCLEAR.",
+  "confidence": "low"
+}

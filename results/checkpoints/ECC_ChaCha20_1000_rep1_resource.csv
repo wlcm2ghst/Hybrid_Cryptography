@@ -1,0 +1,2 @@
+scheme,volume,repetition,baseline_memory_mb,peak_memory_mb,memory_used_mb,mean_cpu_percent,peak_cpu_percent,cpu_sample_interval_sec,num_cpu_samples,wall_time_sec,throughput
+ECC+ChaCha20,1000,1,73.1875,79.25,6.0625,75.91818181818182,92.9,0.05,11,1.1922485828399658,4150.168014136884
