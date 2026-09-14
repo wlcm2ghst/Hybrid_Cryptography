@@ -51,13 +51,13 @@ the full cryptographic design rationale.
 
 ## License
 
-[Add your chosen license, e.g. MIT]
+[UMAT-Essikado Campus]
 
 ## Citation
 
 If you use this code or data, please cite:
 
-[Your citation block]
+[Asare Eliakim Forson]
 
 # Hybrid_Cryptography
 Performance Evaluation of Hybrid Cryptographic Architectures 
